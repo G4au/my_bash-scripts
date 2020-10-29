@@ -50,6 +50,13 @@ Installs several packages for you (except security-lab)
 ### 2. Snap Package:
 - vs code
 ### 3. Package(Group):
+- c-development 
+- development-libs  
+- development-tools
+- rpm-development-tools 
+- php
+- java-development
+- java
 - libreoffice
 - office
 - security-lab (Optional{Yes/No})
