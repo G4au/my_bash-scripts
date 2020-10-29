@@ -1,6 +1,6 @@
 #!/bin/bash
 if [[  $EUID -ne 0 ]]; then
-echo "Bu Script Çal??t?rmak için süperKullan?c?/superuser(root) olman?z gerekiyor"
+echo "You need to be superuser / superuser (root) to run this script"
 exit 1
 fi
 
