@@ -52,7 +52,7 @@ Installs several packages for you (except security-lab)
 ### 3. Package(Group):
 - libreoffice
 - office
-- security-lab
+- security-lab (Optional{Yes/No})
 ## one.sh File
 nvidia 340xx driver and brodcam driver
 - nvidia 340xx (i686)
