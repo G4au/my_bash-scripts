@@ -1,6 +1,6 @@
 #!/bin/bash
 if [[  $EUID -ne 0 ]]; then
-echo "Bu Script Çalıştırmak için süperKullanıcı/superuser(root) olmanız gerekiyor"
+echo "You need to be superuser / superuser (root) to run this script."
 exit 1
 fi
 sudo dnf update -y
