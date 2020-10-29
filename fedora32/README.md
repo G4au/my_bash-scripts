@@ -55,3 +55,10 @@ Installs several packages for you (except security-lab)
 - security-lab
 ## one.sh File
 nvidia 340xx driver and brodcam driver
+- nvidia 340xx (i686)
+- nvidia 340xx (x86_64)
+- mesa-libglapi 
+- freeglut-devel
+- broadcom-wl 
+- akmod-wl
+
